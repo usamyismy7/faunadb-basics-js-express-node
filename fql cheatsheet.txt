@@ -1,0 +1,3 @@
+fauna query language
+fql cheatsheet:
+https://docs.fauna.com/fauna/current/api/fql/cheat_sheet
